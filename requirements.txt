@@ -1,0 +1,12 @@
+numpy
+pandas
+Pillow
+tensorflow
+scikit-learn
+torch
+torchvision
+transformers
+nltk
+matplotlib
+tqdm
+keras
