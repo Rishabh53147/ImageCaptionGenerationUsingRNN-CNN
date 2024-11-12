@@ -8,7 +8,7 @@
 
 ## Dataset Loading and Setup
 
-Dataset used in this project is the Flickr8k dataset cloned from github.com/awsaf49/flickr-dataset. Itconsists of 8,000 images that are each paired with five different captions which provide clear descriptions of the salient entities and events.
+Dataset used in this project is the Flickr8k dataset cloned from github.com/awsaf49/flickr-dataset. It consists of 8,000 images that are each paired with five different captions which provide clear descriptions of the salient entities and events.
 
 
 
